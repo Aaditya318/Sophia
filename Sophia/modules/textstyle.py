@@ -463,10 +463,10 @@ __help__ = """
  - /latin <text>: latinify your text!
  - /lined <text>: lined your text!
 
-By @SophiaSLBot
+  @tobot_update
 SPEACIAL THANKS SABER
 """
-__mod_name__ = "💞StyleText💞"
+__mod_name__ = "StyleText🗨️"
 
 BUBBLE_HANDLER = DisableAbleCommandHandler("bubble", bubble)
 FBUBBLE_HANDLER = DisableAbleCommandHandler("fbubble", fbubble)

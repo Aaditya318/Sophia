@@ -1,4 +1,4 @@
-__mod_name__ = "💞Tools💞"
+__mod_name__ = "Tools👩‍🔧"
 
 __help__ = """
 *Fake Info*
@@ -17,4 +17,5 @@ __help__ = """
  ~ /decrypt*:* Decrypts Previously Ecrypted Text
  ~ /zip*:* reply to a telegram file to compress it in .zip format
  ~ /unzip*:* reply to a telegram file to decompress it from the .zip format
+  @tobot_update
 """

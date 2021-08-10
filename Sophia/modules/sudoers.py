@@ -18,7 +18,7 @@ from Sophia.core.decorators.errors import capture_err
 
 
 
-__mod_name__ = "💞Sudoers💞"
+__mod_name__ = "Sudoers👩‍💻"
 
 __help__ = """
 *Only for group owner:*
@@ -27,6 +27,7 @@ __help__ = """
  - /gban - Comming Soon 
  - /broadcast - Comming Soon 
  - /update - Comming Soon 
+   @tobot_update
 """
 
 

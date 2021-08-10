@@ -157,5 +157,6 @@ __help__ = """
  - /zombies : Searching For Deleted Account
  - /zombies clean :  Clean The Deleted Account In The Group 
  - /kickthefools :  Kicking The Foolers In Group
+  @tobot_update
  """
-__mod_name__ = "💞zombies💞"
+__mod_name__ = "zombies🧟‍♂️"

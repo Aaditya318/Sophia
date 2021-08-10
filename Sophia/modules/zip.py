@@ -213,5 +213,6 @@ __help__ = """
  ~ /unzip :  reply to a telegram file to decompress it from the .zip
  ~ /encrypt: Encrypts The Given Text
  ~ /decrypt: Decrypts Previously Ecrypted Text
+   @tobot_update
  """
-__mod_name__ = "💞Zip💞"
+__mod_name__ = "Zip🤐"

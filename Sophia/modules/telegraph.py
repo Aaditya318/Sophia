@@ -83,6 +83,7 @@ __help__ = """
 I can upload files to Telegraph
  ~ /tm :Get Telegraph Link Of Replied Media
  ~ /txt :Get Telegraph Link of Replied Text
+  @tobot_update
 """
 
-__mod_name__ = "💞Telegraph💞"
+__mod_name__ = "Telegraph📱"

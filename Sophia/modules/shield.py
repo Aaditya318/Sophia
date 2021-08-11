@@ -421,7 +421,7 @@ __help__ = """
  - /globalmode <i>on/off</i> - Enable|Disable English only mode
  - /profanity <i>on/off</i> - Enable|Disable slag word cleaning
  
-Note: Special credits goes to Julia project and Friday Project 
+Note: Special credits goes to @tobot_update project and join it 
  
 """
-__mod_name__ = "💞Shield💞"
+__mod_name__ = "Shield🛡️"

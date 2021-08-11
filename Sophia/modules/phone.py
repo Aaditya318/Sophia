@@ -96,7 +96,7 @@ __help__ = """
 *Commands:*
 • `/phone <no>`*:* find phone number details.
 
-@SophiaSLBot
+   @TOBOT_UPDATE
 """
 
-__mod_name__ = "💕Phone💕"
+__mod_name__ = "PHONE📞"

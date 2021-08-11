@@ -122,6 +122,7 @@ __help__ = """
 *Admins only:*
  - /setrules <your rules here>*:* set the rules for this chat.
  - /clearrules*:* clear the rules for this chat.
+   @tobot_update
 """
 
 __mod_name__ = "Rules🖍️"

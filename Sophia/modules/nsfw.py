@@ -874,6 +874,7 @@ __help__ = """
  - /smug: Sends Random Smug GIFs.
  - /baka: Sends Random Baka Shout GIFs.
  - /dva: Sends Random D.VA source Images.
+    @tobot_update
 """
 
-__mod_name__ = "💞NSFW💞"
+__mod_name__ = "NSFW🥫"
